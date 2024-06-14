@@ -1,4 +1,4 @@
-# Fibonacci---Generator
+# Fibonacci---Generator CodeAlpha Task1
 Python script for generating Fibonacci sequence
 
 This repository contains a Python script that generates Fibonacci numbers. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1.
